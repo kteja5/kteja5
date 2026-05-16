@@ -1,4 +1,4 @@
-# Hi, I'm Tejas 👋
+# Hi, I'm Maniteja 👋
 
 I am a BCA student learning Linux, Computer Networks, GitHub, and IT fundamentals.
 
