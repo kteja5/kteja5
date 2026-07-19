@@ -1,6 +1,6 @@
 # Hi, I'm Maniteja 👋
 
-I am a BCA student learning Linux, Computer Networks, GitHub, and IT fundamentals.
+I am a BCA student learning Linux, Computer Networks, GitHub, SQL and IT fundamentals.
 
 ## 📚 Currently Learning
 - Linux commands
@@ -9,6 +9,7 @@ I am a BCA student learning Linux, Computer Networks, GitHub, and IT fundamental
 - IP addressing
 - Troubleshooting basics
 - Python basics
+- SQL Server
 
 ## 🛠 Practice Areas
 - Linux terminal commands
@@ -16,6 +17,7 @@ I am a BCA student learning Linux, Computer Networks, GitHub, and IT fundamental
 - OS basics
 - GitHub daily practice
 - Small technical projects
+- Query langugage
 
 ## 📌 My Daily Practice
 I upload my daily practice screenshots and notes to GitHub to track my learning progress.
